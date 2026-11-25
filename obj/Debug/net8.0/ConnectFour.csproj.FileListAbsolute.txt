@@ -31,3 +31,4 @@ C:\Users\Hp\ProyectosConnectFour\ConnectFour\obj\Debug\net8.0\refint\ConnectFour
 C:\Users\Hp\ProyectosConnectFour\ConnectFour\obj\Debug\net8.0\ConnectFour.pdb
 C:\Users\Hp\ProyectosConnectFour\ConnectFour\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 C:\Users\Hp\ProyectosConnectFour\ConnectFour\obj\Debug\net8.0\ref\ConnectFour.dll
+C:\Users\Hp\ProyectosConnectFour\ConnectFour\obj\Debug\net8.0\ConnectFour.sourcelink.json
